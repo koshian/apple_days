@@ -1,0 +1,1238 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-26",
+  "rss": "https://www.apple.com/jp/newsroom/rss-feed.rss",
+  "notes": [
+    "Historical seed data is based primarily on Apple Days.",
+    "2025-2026 catch-up entries use Apple Newsroom availability dates.",
+    "Release date means retail availability date where Apple explicitly states it; otherwise seeded historical Apple Days date."
+  ],
+  "products": [
+    {
+      "id": "macbook-pro-13",
+      "name": "MacBook Pro 13インチ",
+      "status": "discontinued",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2022-06-24",
+          "label": "Mid 2022 (M2)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-11-17",
+          "label": "Late 2020 (M1)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-05-04",
+          "label": "Mid 2020",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-05-22",
+          "label": "Mid 2019",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Mid 2018",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-10-28",
+          "label": "Late 2016",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-03-10",
+          "label": "Mid 2015",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-07-29",
+          "label": "Mid 2014",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-10-23",
+          "label": "Late 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Mid 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-02-24",
+          "label": "Early 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-04-13",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-06-09",
+          "label": "Mid 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-10-14",
+          "label": "Late 2008",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-14",
+      "name": "MacBook Pro 14インチ",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "M5 Pro / M5 Max",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/"
+        },
+        {
+          "date": "2025-10-22",
+          "label": "M5",
+          "source": "https://www.apple.com/jp/newsroom/2025/10/apple-unveils-new-14-inch-macbook-pro-powered-by-the-m5-chip/"
+        },
+        {
+          "date": "2024-11-08",
+          "label": "Late 2024 (M4 / M4 Pro / M4 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-11-07",
+          "label": "Late 2023 (M3 / M3 Pro / M3 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-02-03",
+          "label": "Early 2023 (M2 Pro / M2 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-10-26",
+          "label": "Late 2021 (M1 Pro / M1 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-11-17",
+          "label": "Late 2020 (M1)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-05-04",
+          "label": "Mid 2020",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-05-22",
+          "label": "Mid 2019",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Mid 2018",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-10-28",
+          "label": "Late 2016",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-03-10",
+          "label": "Mid 2015",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-07-29",
+          "label": "Mid 2014",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-10-23",
+          "label": "Late 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Mid 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-02-24",
+          "label": "Early 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-04-13",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-06-09",
+          "label": "Mid 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-10-14",
+          "label": "Late 2008",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "macbook-pro-16",
+      "name": "MacBook Pro 16インチ",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "M5 Pro / M5 Max",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/"
+        },
+        {
+          "date": "2024-11-08",
+          "label": "Late 2024 (M4 Pro / M4 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-11-07",
+          "label": "Late 2023 (M3 Pro / M3 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-02-03",
+          "label": "Early 2023 (M2 Pro / M2 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-10-26",
+          "label": "Late 2021 (M1 Pro / M1 Max)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-11-13",
+          "label": "Late 2019",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-07-11",
+          "label": "Mid 2018",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-10-28",
+          "label": "Late 2016",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-05-19",
+          "label": "Mid 2015",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-07-29",
+          "label": "Mid 2014",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-10-23",
+          "label": "Late 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Mid 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-02-24",
+          "label": "Early 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-04-13",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-06-09",
+          "label": "Mid 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-10-14",
+          "label": "Late 2008",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "macbook-air",
+      "name": "MacBook Air",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "M5",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
+        },
+        {
+          "date": "2025-03-12",
+          "label": "M4",
+          "source": "https://www.apple.com/jp/newsroom/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/"
+        },
+        {
+          "date": "2024-03-04",
+          "label": "Mid 2024 (M3)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-07-15",
+          "label": "Mid 2022 (M2)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-11-17",
+          "label": "Late 2020 (M1)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-03-18",
+          "label": "Mid 2020",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-11-07",
+          "label": "Late 2018",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-03-10",
+          "label": "Mid 2015",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-04-29",
+          "label": "Mid 2014",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-06-11",
+          "label": "Mid 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Mid 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-07-20",
+          "label": "Mid 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-10-20",
+          "label": "Late 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-06-08",
+          "label": "Mid 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-10-14",
+          "label": "Late 2008",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-01-16",
+          "label": "初代",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "macbook",
+      "name": "MacBook",
+      "status": "discontinued",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2017-06-08",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-04-20",
+          "label": "Early 2016",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-04-10",
+          "label": "Early 2015",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "macbook-neo",
+      "name": "MacBook Neo",
+      "status": "active",
+      "seedSource": "https://www.apple.com/jp/newsroom/2026/03/macbook-neo-iphone-17e-ipad-air-with-m4-and-more-are-now-available/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "初代",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/macbook-neo-iphone-17e-ipad-air-with-m4-and-more-are-now-available/"
+        }
+      ]
+    },
+    {
+      "id": "imac",
+      "name": "iMac",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2024-11-08",
+          "label": "Late 2024 (M4)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-11-07",
+          "label": "Late 2023 (M3)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-05-21",
+          "label": "Mid 2021 (M1)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-08-05",
+          "label": "Mid 2020",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-03-28",
+          "label": "Early 2019",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-10-13",
+          "label": "Late 2015",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-10-17",
+          "label": "Late 2014 (Retina 5K)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-09-25",
+          "label": "Late 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-11-30",
+          "label": "Late 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-05-03",
+          "label": "Mid 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-07-27",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-10-20",
+          "label": "Late 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-03-03",
+          "label": "Early 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-04-28",
+          "label": "Early 2008",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2007-08-07",
+          "label": "Mid 2007",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2006-09-06",
+          "label": "Late 2006",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2006-01-10",
+          "label": "Early 2006",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "mac-pro",
+      "name": "Mac Pro",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2023-06-13",
+          "label": "M2 Ultra",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-12-10",
+          "label": "Late 2019",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-04-05",
+          "label": "Mid 2017",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-12-19",
+          "label": "Late 2013",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-06-12",
+          "label": "Mid 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-07-27",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-03-04",
+          "label": "Early 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-01-08",
+          "label": "Early 2008",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2006-08-07",
+          "label": "初代",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "mac-studio",
+      "name": "Mac Studio",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-03-12",
+          "label": "M4 Max / M3 Ultra",
+          "source": "https://www.apple.com/jp/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/"
+        },
+        {
+          "date": "2023-06-13",
+          "label": "M2 Max / Ultra",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-03-18",
+          "label": "M1 Max / Ultra",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "mac-mini",
+      "name": "Mac mini",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2024-11-08",
+          "label": "Late 2024 (M4 / M4 Pro)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-02-03",
+          "label": "M2 / M2 Pro",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-11-17",
+          "label": "Late 2020 (M1)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-11-07",
+          "label": "Late 2018",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-10-17",
+          "label": "Late 2014",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-10-24",
+          "label": "Late 2012",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-07-20",
+          "label": "Mid 2011",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-06-15",
+          "label": "Mid 2010",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-10-20",
+          "label": "Late 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-03-03",
+          "label": "Early 2009",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2007-08-07",
+          "label": "Mid 2007",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2006-09-06",
+          "label": "Late 2006",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2006-02-28",
+          "label": "Early 2006",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "iphone",
+      "name": "iPhone",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-09-19",
+          "label": "iPhone 17",
+          "source": "https://www.apple.com/jp/newsroom/2025/09/apple-debuts-iphone-17/"
+        },
+        {
+          "date": "2024-09-20",
+          "label": "iPhone 16 / 16 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-09-22",
+          "label": "iPhone 15 / 15 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-09-16",
+          "label": "iPhone 14 / 14 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-09-24",
+          "label": "iPhone 13 / 13 mini",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-10-23",
+          "label": "iPhone 12 / 12 mini",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-09-20",
+          "label": "iPhone 11",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-10-26",
+          "label": "iPhone XR",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-09-22",
+          "label": "iPhone 8 / 8 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-09-16",
+          "label": "iPhone 7 / 7 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-09-25",
+          "label": "iPhone 6s / 6s Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-09-19",
+          "label": "iPhone 6 / 6 Plus",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-09-20",
+          "label": "iPhone 5s",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-09-21",
+          "label": "iPhone 5",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-10-14",
+          "label": "iPhone 4S",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-06-24",
+          "label": "iPhone 4",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-06-19",
+          "label": "iPhone 3GS",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-07-11",
+          "label": "iPhone 3G",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2007-06-29",
+          "label": "iPhone",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "iphone-pro",
+      "name": "iPhone Pro",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-09-19",
+          "label": "iPhone 17 Pro / 17 Pro Max",
+          "source": "https://www.apple.com/jp/newsroom/2025/09/get-ready-to-discover-the-next-generation-of-iphone-apple-watch-and-airpods/"
+        },
+        {
+          "date": "2024-09-20",
+          "label": "iPhone 16 Pro / 16 Pro Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2023-09-22",
+          "label": "iPhone 15 Pro / 15 Pro Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-09-16",
+          "label": "iPhone 14 Pro / 14 Pro Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-09-24",
+          "label": "iPhone 13 Pro / 13 Pro Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-10-23",
+          "label": "iPhone 12 Pro",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-09-20",
+          "label": "iPhone 11 Pro / 11 Pro Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-09-21",
+          "label": "iPhone XS / XS Max",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-11-03",
+          "label": "iPhone X",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "iphone-entry",
+      "name": "iPhone e / SE",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "iPhone 17e",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-iphone-17e/"
+        },
+        {
+          "date": "2025-02-28",
+          "label": "iPhone 16e",
+          "source": "https://www.apple.com/jp/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
+        },
+        {
+          "date": "2022-03-18",
+          "label": "iPhone SE (2022)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-04-24",
+          "label": "iPhone SE (2020)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-03-31",
+          "label": "iPhone SE",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-09-20",
+          "label": "iPhone 5c",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "ipod-touch",
+      "name": "iPod touch",
+      "status": "discontinued",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2019-05-28",
+          "label": "7th generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-07-16",
+          "label": "6th generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-10-09",
+          "label": "5th generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-09-01",
+          "label": "4th generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2009-09-09",
+          "label": "3rd generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2008-09-09",
+          "label": "2nd generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2007-09-05",
+          "label": "1st generation",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "ipad",
+      "name": "iPad",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-03-12",
+          "label": "iPad (A16)",
+          "source": "https://www.apple.com/jp/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/"
+        },
+        {
+          "date": "2022-10-26",
+          "label": "iPad 10",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-09-24",
+          "label": "iPad 9",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-09-18",
+          "label": "iPad 8",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-09-30",
+          "label": "iPad 7",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-03-28",
+          "label": "iPad 6",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-03-22",
+          "label": "iPad 5",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-03-31",
+          "label": "iPad Pro 9.7inch",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-10-18",
+          "label": "iPad Air 2 (2014)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-11-01",
+          "label": "iPad Air (2013)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-11-02",
+          "label": "iPad 4",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-03-16",
+          "label": "iPad 3",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2011-03-11",
+          "label": "iPad 2",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-04-03",
+          "label": "iPad",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "ipad-air",
+      "name": "iPad Air",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2026-03-11",
+          "label": "iPad Air (M4)",
+          "source": "https://www.apple.com/jp/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/"
+        },
+        {
+          "date": "2025-03-12",
+          "label": "iPad Air (M3)",
+          "source": "https://www.apple.com/jp/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/"
+        },
+        {
+          "date": "2024-05-15",
+          "label": "iPad Air (M2)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-03-18",
+          "label": "iPad Air 5",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-10-23",
+          "label": "iPad Air 4",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-03-30",
+          "label": "iPad Air 3",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-10-18",
+          "label": "iPad Air 2",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-11-01",
+          "label": "iPad Air",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "ipad-pro",
+      "name": "iPad Pro",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-10-22",
+          "label": "iPad Pro (M5)",
+          "source": "https://www.apple.com/jp/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/"
+        },
+        {
+          "date": "2024-05-15",
+          "label": "iPad Pro (M4)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2022-10-26",
+          "label": "iPad Pro (2022)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-05-21",
+          "label": "iPad Pro (2021)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-03-25",
+          "label": "iPad Pro (2020)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2018-11-07",
+          "label": "iPad Pro (2018) / 11inch",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-06-06",
+          "label": "iPad Pro (2017) / 10.5inch",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-03-31",
+          "label": "iPad Pro 9.7inch",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "ipad-mini",
+      "name": "iPad mini",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2024-10-23",
+          "label": "iPad mini 7 (2024)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-09-24",
+          "label": "iPad mini 6 (2021)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-03-30",
+          "label": "iPad mini 5 (2019)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-09-10",
+          "label": "iPad mini 4 (2015)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2014-10-18",
+          "label": "iPad mini 3 (2014)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2013-11-12",
+          "label": "iPad mini Retina (2013)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-11-02",
+          "label": "iPad mini (2012)",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "apple-tv",
+      "name": "Apple TV",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2022-11-04",
+          "label": "Apple TV 4K (2022)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-05-21",
+          "label": "Apple TV 4K (2021)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2017-09-22",
+          "label": "Apple TV 4K",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2015-10-26",
+          "label": "4th generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2012-03-07",
+          "label": "3rd generation",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2010-09-01",
+          "label": "2nd generation",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "homepod",
+      "name": "HomePod",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2023-02-03",
+          "label": "HomePod (第二世代)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2020-11-16",
+          "label": "HomePod mini",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-08-23",
+          "label": "HomePod (第一世代)",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "airpods",
+      "name": "AirPods",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2024-09-20",
+          "label": "AirPods（第4世代）",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2021-10-26",
+          "label": "AirPods（第3世代）",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-03-26",
+          "label": "AirPods（第2世代）",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2016-12-13",
+          "label": "AirPods（第1世代）",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    },
+    {
+      "id": "airpods-pro",
+      "name": "AirPods Pro",
+      "status": "active",
+      "seedSource": "https://appledays.santalab.me/",
+      "releases": [
+        {
+          "date": "2025-09-19",
+          "label": "AirPods Pro 3",
+          "source": "https://www.apple.com/jp/newsroom/2025/09/airpods-pro-3-introduce-the-ultimate-audio-experience/"
+        },
+        {
+          "date": "2022-09-23",
+          "label": "AirPods Pro (第2世代)",
+          "source": "https://appledays.santalab.me/"
+        },
+        {
+          "date": "2019-10-28",
+          "label": "AirPods Pro",
+          "source": "https://appledays.santalab.me/"
+        }
+      ]
+    }
+  ]
+}
