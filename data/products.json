@@ -579,6 +579,14 @@
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
         {
+          "date": "2026-09-22",
+          "label": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "source": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+          "announcementTitle": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+          "announcedAt": "2026-08-25",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
+        {
           "date": "2025-03-12",
           "label": "M4 Max / M3 Ultra",
           "source": "https://www.apple.com/jp/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/"
@@ -601,6 +609,14 @@
       "status": "active",
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
+        {
+          "date": "2026-09-22",
+          "label": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "source": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+          "announcementTitle": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+          "announcedAt": "2026-08-25",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
         {
           "date": "2024-11-08",
           "label": "Late 2024 (M4 / M4 Pro)",
