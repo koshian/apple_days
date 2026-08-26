@@ -1,6 +1,7 @@
 name: Update products
 
 on:
+  push:
   schedule:
     - cron: "17 13-19 * * *"
   workflow_dispatch:
