@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-09-09",
   "rss": "https://www.apple.com/jp/newsroom/rss-feed.rss",
   "notes": [
     "Historical seed data is based primarily on Apple Days.",
@@ -793,6 +793,14 @@
       "status": "active",
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
+        {
+          "date": "2026-09-18",
+          "label": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+          "source": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+          "announcementTitle": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+          "announcedAt": "2026-09-09",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
         {
           "date": "2025-09-19",
           "label": "iPhone 17 Pro / 17 Pro Max",
