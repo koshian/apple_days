@@ -18,5 +18,17 @@
     "feed": "https://www.apple.com/newsroom/rss-feed.rss",
     "reason": "unclassified",
     "classifiedAs": []
+  },
+  {
+    "guid": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+    "title": "The new Mac mini and Mac Studio are available today",
+    "link": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/",
+    "published": "2026-09-22T12:59:21.039000+00:00",
+    "feed": "https://www.apple.com/newsroom/rss-feed.rss",
+    "reason": "release-date-not-found",
+    "classifiedAs": [
+      "mac-studio",
+      "mac-mini"
+    ]
   }
 ]
