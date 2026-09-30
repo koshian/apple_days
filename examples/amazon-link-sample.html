@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Amazon product link sample</title>
+<title>Amazon iPhone 17 Pro image sample</title>
 <style>
   body {
     margin: 0;
@@ -18,7 +18,7 @@
   .note { color: #6e6e73; font-size: 13px; line-height: 1.6; margin: 0 0 16px; }
   .amazon-card {
     display: grid;
-    grid-template-columns: 150px 1fr;
+    grid-template-columns: 180px 1fr;
     gap: 20px;
     align-items: center;
     padding: 20px;
@@ -27,8 +27,8 @@
     background: #fff;
   }
   .amazon-card img {
-    width: 150px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     object-fit: contain;
     display: block;
   }
@@ -44,7 +44,8 @@
     font-weight: 700;
     font-size: 14px;
   }
-  .disclosure { margin: 14px 2px 0; color: #6e6e73; font-size: 11px; line-height: 1.5; }
+  .meta { margin: 14px 2px 0; color: #6e6e73; font-size: 11px; line-height: 1.6; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
   @media (max-width: 480px) {
     .amazon-card { grid-template-columns: 1fr; text-align: center; }
     .amazon-card img { margin: 0 auto; }
@@ -54,55 +55,28 @@
 <body>
 <div class="wrap">
   <p class="note">
-    Apple Days ][ 本体には一切手を入れない、Amazon商品画像＋アフィリエイトリンクの表示サンプルです。
-    実運用では imageUrl と detailPageUrl を Creators API の返値に差し替えます。
+    Amazon.co.jp に実在する iPhone 17 Pro の商品を使った表示サンプルです。
+    画像ファイルはこのリポジトリには保存せず、Amazon の画像CDNから直接表示します。
   </p>
 
-  <article class="amazon-card" id="amazonCard">
-    <a id="imageLink" href="#" target="_blank" rel="sponsored noreferrer">
-      <img id="productImage" alt="Mac miniの商品画像">
+  <article class="amazon-card">
+    <a href="https://www.amazon.co.jp/dp/B0FQFLM679" target="_blank" rel="sponsored noreferrer">
+      <img
+        src="https://m.media-amazon.com/images/I/51PAvGLRSwL._AC_SL1000_.jpg"
+        alt="Apple iPhone 17 Pro ディープブルー"
+        referrerpolicy="no-referrer">
     </a>
     <div>
-      <h1 id="productTitle">Mac mini</h1>
-      <p>商品画像はAmazonが提供するURLを直接表示し、自前サーバーには保存しない想定です。</p>
-      <a id="productLink" class="amazon-link" href="#" target="_blank" rel="sponsored noreferrer">Amazonで見る</a>
+      <h1>iPhone 17 Pro</h1>
+      <p>256GB / ディープブルー。ASIN: <code>B0FQFLM679</code></p>
+      <a class="amazon-link" href="https://www.amazon.co.jp/dp/B0FQFLM679" target="_blank" rel="sponsored noreferrer">Amazonで見る</a>
     </div>
   </article>
 
-  <p class="disclosure">Amazonのアソシエイトとして、適格販売により収入を得る場合があります。</p>
+  <p class="meta">
+    Image host: <code>m.media-amazon.com</code><br>
+    実運用でアソシエイトリンクにする場合は、商品URLを自分のAssociate Tag付きURLまたはCreators APIのDetailPageURLに置き換えます。
+  </p>
 </div>
-
-<script>
-(() => {
-  // Creators API の返値をこの形に正規化すれば表示できます。
-  // imageUrl は Amazon が提供する画像URL、detailPageUrl はアフィリエイト付き商品URLを想定。
-  const amazonItem = {
-    title: "Mac mini",
-    imageUrl: null,
-    detailPageUrl: null
-  };
-
-  // API未接続でもレイアウト確認できるよう、サンプル画像だけ data URI で表示。
-  const placeholderSvg = `
-    <svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480">
-      <rect width="600" height="480" rx="36" fill="#f5f5f7"/>
-      <rect x="135" y="125" width="330" height="230" rx="32" fill="#d8d8dc" stroke="#b8b8bd" stroke-width="4"/>
-      <circle cx="425" cy="315" r="8" fill="#8e8e93"/>
-      <text x="300" y="405" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#6e6e73">Amazon image via Creators API</text>
-    </svg>`;
-
-  const image = document.querySelector("#productImage");
-  const title = document.querySelector("#productTitle");
-  const imageLink = document.querySelector("#imageLink");
-  const productLink = document.querySelector("#productLink");
-
-  title.textContent = amazonItem.title;
-  image.src = amazonItem.imageUrl || `data:image/svg+xml;charset=utf-8,${encodeURIComponent(placeholderSvg)}`;
-
-  const href = amazonItem.detailPageUrl || "https://www.amazon.co.jp/";
-  imageLink.href = href;
-  productLink.href = href;
-})();
-</script>
 </body>
 </html>
