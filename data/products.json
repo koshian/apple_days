@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-10-13",
   "rss": "https://www.apple.com/jp/newsroom/rss-feed.rss",
   "notes": [
     "Historical seed data is based primarily on Apple Days.",
@@ -1153,6 +1153,14 @@
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
         {
+          "date": "2026-11-13",
+          "label": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+          "announcementTitle": "Apple unveils the new Apple TV 4K, supercharged by Siri AI",
+          "announcedAt": "2026-10-13",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
+        {
           "date": "2022-11-04",
           "label": "Apple TV 4K (2022)",
           "source": "https://appledays.santalab.me/"
@@ -1190,6 +1198,14 @@
       "status": "active",
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
+        {
+          "date": "2026-10-30",
+          "label": "Apple announces the next generation of HomePod mini",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/",
+          "announcementTitle": "Apple announces the next generation of HomePod mini",
+          "announcedAt": "2026-10-13",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
         {
           "date": "2023-02-03",
           "label": "HomePod (第二世代)",
