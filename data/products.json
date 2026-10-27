@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-27",
   "rss": "https://www.apple.com/jp/newsroom/rss-feed.rss",
   "notes": [
     "Historical seed data is based primarily on Apple Days.",
@@ -97,6 +97,14 @@
       "status": "active",
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
+        {
+          "date": "2026-11-06",
+          "label": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+          "announcementTitle": "Apple introduces the new 14-inch MacBook Pro with M6",
+          "announcedAt": "2026-10-27",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
         {
           "date": "2026-03-11",
           "label": "M5 Pro / M5 Max",
@@ -427,6 +435,14 @@
       "status": "active",
       "seedSource": "https://appledays.santalab.me/",
       "releases": [
+        {
+          "date": "2026-11-06",
+          "label": "Apple unveils new iMac with M6",
+          "source": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+          "announcementTitle": "Apple unveils new iMac with M6",
+          "announcedAt": "2026-10-27",
+          "discoveredFrom": "https://www.apple.com/newsroom/rss-feed.rss"
+        },
         {
           "date": "2024-11-08",
           "label": "Late 2024 (M4)",
