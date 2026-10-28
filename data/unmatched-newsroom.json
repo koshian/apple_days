@@ -39,5 +39,14 @@
     "feed": "https://www.apple.com/newsroom/rss-feed.rss",
     "reason": "unclassified",
     "classifiedAs": []
+  },
+  {
+    "guid": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+    "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display",
+    "link": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+    "published": "2026-10-28T17:09:28.430000+00:00",
+    "feed": "https://www.apple.com/newsroom/rss-feed.rss",
+    "reason": "unclassified",
+    "classifiedAs": []
   }
 ]
